@@ -6,7 +6,8 @@ FlowDay 是一个连接「计划、行动与回顾」的 AI 时间管理与个�
 
 它不仅帮助用户决定接下来要做什么，也帮助用户重新看见已经度过的时间。
 
-[在线体验](https://example.com/flowday-demo) · [项目故事](https://example.com/flowday-case-study)
+[在线体验](https://flowday-pi.vercel.app/app?demo=true) 
+[项目故事](https://flowday-pi.vercel.app/case-study)
 
 > 在线地址将在 Vercel 部署完成后替换为真实链接。
 
